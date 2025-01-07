@@ -5,8 +5,6 @@ dependencies:
 - python=3.6.2
 
 - pip:
-  - --index-url https://azuremlsdktestpypi.azureedge.net/sdk-release/Candidate/604C89A437BA41BD942B4F46D9A3591D
-  - --extra-index-url https://pypi.python.org/simple
   - horovod==0.13.5
   - keras==2.0.8
   # - theano==1.0.4
